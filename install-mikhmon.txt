@@ -1,5 +1,4 @@
 #bin/bash
-apt install curl
 apt install git php -y
 git clone https://github.com/laksa19/mikhmonv3.git
 cat >start-mikhmon <<EOL
